@@ -3,7 +3,7 @@
 
 ## 🚀 Ver la página en línea
 Cuando actives **GitHub Pages**, tu sitio estará disponible en:  
-👉 `https://TU-USUARIO.github.io/mi-repo`
+👉 `https://anix20078.hithub.io
 
 *(Reemplaza `TU-USUARIO` y `mi-repo` con tu usuario y nombre del repositorio).*
 
